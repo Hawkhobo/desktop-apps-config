@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Code Composer Studio 12.5.0
+Comment=Code Composer Studio 12.5.0.00007
+Icon=/opt/ccstudio/ccs/doc/ccs.ico
+Exec=env GDK_BACKEND=x11 /opt/ccstudio/ccs/eclipse/ccstudio
+Terminal=false

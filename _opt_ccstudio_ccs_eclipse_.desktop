@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Code Composer Studio
+Exec=/opt/ccstudio/ccs/eclipse/ccstudio %u
+NoDisplay=true
+Type=Application
+MimeType=x-scheme-handler/eclipse+command;x-scheme-handler/eclipse+mpc;
