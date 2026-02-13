@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=0.21.0
+Name=Hyperbeam
+GenericName=Shared Browser App
+Comment=Browse the web with friends
+Keywords=Internet;Watch;Browser;Video
+Exec= '%U'hyperbeam
+Icon=hyperbeam
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+MimeType=x-scheme-handler/hyperbeam;
+StartupNotify=true
+StartupWMClass=hyperbeam
+Categories=Network;AudioVideo

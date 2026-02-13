@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=DigitalZen
+Exec=/home/jacob/.local/bin/DigitalZen.AppImage
+Icon=/home/jacob/.local/share/icons/DigitalZen.svg
+Terminal=false
+StartupNotify=true
+Categories=Utility;Productivity;
+X-AppImage-Integrate=false
